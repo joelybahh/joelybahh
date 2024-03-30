@@ -29,14 +29,14 @@ Pioneered the Inspace Workspace platform, significantly contributing to:
 
 ## 🌐 Projects
 ### Work
-[Inspace Mapping](#) - Leveraging NextJS, Typescript, Mapbox, and BabylonJS for an immersive asset storytelling experience.
-[Inspace Reporting](#) - An interactive online reporting tool developed with NextJS, Typescript, and React PDF.
-[Inspace CMS](#) - A multi-tenanted CMS for landlords and agents to manage their [Stacks](#)
-[Inspace Inventory](#) - A multi-tenanted, commerical realestate inventory acting as a data consolidation point for disparate data-sources, and powering the DXP.
-[Inspace DXP](#) - An digital experiences platform that leverages robust data on inventory to craft `Maps`, `Reports` and `Stacks` (more to come).
+- [Inspace Mapping](#) - Leveraging NextJS, Typescript, Mapbox, and BabylonJS for an immersive asset storytelling experience.
+- [Inspace Reporting](#) - An interactive online reporting tool developed with NextJS, Typescript, and React PDF.
+- [Inspace CMS](#) - A multi-tenanted CMS for landlords and agents to manage their [Stacks](#)
+- [Inspace Inventory](#) - A multi-tenanted, commerical realestate inventory acting as a data consolidation point for disparate data-sources, and powering the DXP.
+- [Inspace DXP](#) - An digital experiences platform that leverages robust data on inventory to craft `Maps`, `Reports` and `Stacks` (more to come).
 
 ### Personal
-[Code Buddy](#) - My first project using AI, leveraging GPT to build a "Code Buddy" that assists in descriptive commit message generation and more!
+- [Code Buddy](#) - My first project using AI, leveraging GPT to build a "Code Buddy" that assists in descriptive commit message generation and more!
 
 ## 👨‍🏫 Passion for Teaching
 - **Course Creation**: Crafting online tutorials to share knowledge.
