@@ -9,7 +9,7 @@ Whether you're new to development or an experienced tech enthusiast, I'm open to
 
 ## 💼 Experience
 
-**Inspace - Technology Lead (Jun 2024 - Present)**  
+### Inspace - Technology Lead (Jun 2024 - Present) 
 Steering high-impact technical initiatives while maintaining an active role in development and team management. Key contributions include:
 - **Strategic Technical Leadership:** Leading major technical initiatives and defining project strategies to drive innovation across the suite of services.
 - **Stakeholder Engagement:** Collaborating with department heads and key stakeholders to ensure alignment between technology roadmaps and business objectives.
