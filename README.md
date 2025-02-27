@@ -9,7 +9,14 @@ Whether you're new to development or an experienced tech enthusiast, I'm open to
 
 ## 💼 Experience
 
-### Inspace - Lead Developer (May 2023 - Present)
+**Inspace - Technology Lead (Jun 2024 - Present)**  
+Steering high-impact technical initiatives while maintaining an active role in development and team management. Key contributions include:
+- **Strategic Technical Leadership:** Leading major technical initiatives and defining project strategies to drive innovation across the suite of services.
+- **Stakeholder Engagement:** Collaborating with department heads and key stakeholders to ensure alignment between technology roadmaps and business objectives.
+- **Team Mentorship & Management:** Overseeing and mentoring engineering teams, fostering a culture of continuous improvement and agile practices.
+- **Hands-On Technical Oversight:** Contributing to code reviews and technical designs, ensuring robust architecture and quality implementation.
+
+### Inspace - Lead Developer (May 2023 - Jun 2024)
 Driving the development of innovative software solutions including API, CMS, and micro-services with an emphasis on:
 - Full-stack development & database design.
 - CI/CD pipeline implementation.
